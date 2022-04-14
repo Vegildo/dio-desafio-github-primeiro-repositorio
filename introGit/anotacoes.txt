@@ -2,4 +2,8 @@ Códigos pro gitbash (e command line):
 
     Para pastas: cd(entra), dir(olha), mkdir(cria), rmdir(deleta). ls-a (olha tds as pastas até as pastas e arquivos ocultos)
 
-    Para o gitHub : git init, git clone, git add, git commit
+    Para o gitHub : git init, git clone, git add, git commit e git push.
+
+Inicialização de um repositório: 
+    Passos:
+        1- 
